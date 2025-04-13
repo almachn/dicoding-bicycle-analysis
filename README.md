@@ -16,3 +16,5 @@ Dataset yang digunakan adalah **Bike Sharing Dataset** dari (https://www.kaggle.
 
 ```bash
 git clone https://github.com/almachn/dicoding-bycicle-analisist
+
+2. **Membuat virtual environment:**
