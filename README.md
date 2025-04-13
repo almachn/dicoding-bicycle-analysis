@@ -6,7 +6,7 @@ Proyek ini mengeksplorasi hubungan antara kondisi cuaca dan total penyewaan sepe
 
 ## Dataset Description
 
-Dataset yang digunakan dalam analisis ini adalah **Bike Sharing Dataset**.
+Dataset yang digunakan dalam analisis ini adalah [bike sharing dataset](https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset)
 
 ## Installation Instructions
 
@@ -25,6 +25,7 @@ Dataset yang digunakan dalam analisis ini adalah **Bike Sharing Dataset**.
    virtualenv venv
    ```
 3. **Enable the virtual environment and install dependencies:**
+
    Windows:
    ```
    venv\Scripts\activate
