@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Proyek ini mengeksplorasi hubungan antara kondisi cuaca dan total penyewaan sepeda. 
+Proyek ini mengeksplorasi tren penyewaan sepeda berdasarkan kondisi cuaca, musim, dan hari kerja/libur. 
 
 ## Dataset Description
 
@@ -10,7 +10,7 @@ Dataset yang digunakan dalam analisis ini adalah [bike sharing dataset](https://
 
 ## Installation Instructions
 
-1. **Kloning repositori proyek:**
+1. **Clone the project repository:**
 
    ```
    git clone https://github.com/almachn/dicoding-bycicle-analisist
@@ -42,7 +42,7 @@ Dataset yang digunakan dalam analisis ini adalah [bike sharing dataset](https://
 ```
 streamlit run dashboard/dashboard.py
 ```
-## Fitur Utama
+## Main Features
 
 📅 **Analisis Penyewaan Bulanan**
 Melihat tren naik-turun jumlah penyewaan sepeda per bulan.
