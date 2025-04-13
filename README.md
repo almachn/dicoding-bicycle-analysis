@@ -12,7 +12,9 @@ Dataset yang digunakan dalam analisis ini adalah **Bike Sharing Dataset**.
 
 1. **Kloning repositori proyek:**
 
-   ```bash
+   ```
    git clone https://github.com/almachn/dicoding-bycicle-analisist
+   ```
+2. **Create a virtual environment:**
    ```
 
