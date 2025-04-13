@@ -1,20 +1,18 @@
 # dicoding-bycicle-analisist
 
-Proyek ini bertujuan untuk menganalisis hubungan antara kondisi cuaca dan total penyewaan sepeda. Selain itu, juga dilakukan perbandingan tren penyewaan antara hari kerja dan hari libur/weekend.
+## Project Description
 
----
+Proyek ini mengeksplorasi hubungan antara kondisi cuaca dan total penyewaan sepeda. 
 
-## 📚 Dataset
+## Dataset Description
 
-Dataset yang digunakan adalah **Bike Sharing Dataset** dari (https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset).
+Dataset yang digunakan dalam analisis ini adalah **Bike Sharing Dataset**.
 
----
-
-## ⚙️ Cara Instalasi
+## Installation Instructions
 
 1. **Kloning repositori proyek:**
 
-```bash
-git clone https://github.com/almachn/dicoding-bycicle-analisist
+   ```bash
+   git clone https://github.com/almachn/dicoding-bycicle-analisist
+   ```
 
-2. **Membuat virtual environment:**
