@@ -42,6 +42,7 @@ Dataset yang digunakan dalam analisis ini adalah [bike sharing dataset](https://
 ```
 streamlit run dashboard/dashboard.py
 ```
+[Streamlit App](https://almachn-bicycle-analysis.streamlit.app/)
 ## Main Features
 
 📅 **Analisis Penyewaan Bulanan**
